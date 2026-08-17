@@ -180,23 +180,6 @@ Electronic check users show a comparatively higher churn rate.
 Customers with higher monthly charges show increased churn risk.
 Identifying high-risk customers can help businesses prioritize retention strategies.
 
-📁 Project Structure
-Customer-Churn-Analytics/
-│
-├── images/
-│   └── customer-churn-dashboard.png
-│
-├── notebooks/
-│   └── Ashwini.ipynb
-│
-├── powerbi/
-│   └── Customer_Churn_Risk_Analysis.pbix
-│
-├── sql/
-│   └── churn_analysis.sql
-│
-└── README.md
-
 🚀 Business Recommendations
 
 Based on the analysis, businesses can:
